@@ -10,4 +10,5 @@ There are 3 major points to notate when comparing the temperature in June and De
 ![June](https://user-images.githubusercontent.com/106560752/185026313-be1552d8-859f-4188-bda3-80112f2782b9.png)
 ![December](https://user-images.githubusercontent.com/106560752/185026322-f191790d-63ca-4650-a4a5-b45caf44fb88.png)
 
-- 
+- Another thing we can look at is the count for June and December. June has a higher count than December meaning that the temperature in June fluctates more which December holds a more consistant temperature. 
+- June and December's highest temperatures are very close to eachother. This tells us that during the day when the sun is at its peak, the temperature is at its highest which is ideal for surfing and icecream. Again, even December has nice weather for this new shop adventure. Although the lower temperatures in December may be concerning, it could very likely correlate to that of being at night when the sun is down, causing those lower temperatures. Nothing to worry about since surfing and icecream might not be as sought after when it is dark.
